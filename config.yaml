@@ -1,0 +1,11 @@
+source_database:
+  db_host: 
+  db_user: 
+  db_password: 
+  db_name: 
+
+destination_database:
+  db_host: 
+  db_user: 
+  db_password: 
+  db_name: 
